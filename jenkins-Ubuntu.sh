@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Author:  Sharpton
-#Date: feb 
+#Date: June 23
 #Description: Installation of jenkins on ubuntu
 
 
